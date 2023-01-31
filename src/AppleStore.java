@@ -5,8 +5,7 @@ public class AppleStore {
         double profit = 0;
 
 
-
-        System.out.println("You picked 500 apples from an apple orchard.");
+        System.out.println();("You picked 500 apples from an apple orchard.");
         //Update number of apples.
         numOfApples += 500;
 
